@@ -15,7 +15,7 @@ Personas residentes en la ciudad de Villa Dolores, Córdoba, que requieran servi
 **Cuerpo:** Sunday (https://www.dafont.com/sunday-3.font)
 
 
-## Paleta de Colores RGB: ##
+## Paleta de Colores: ##
 ![paleta-nuvemshop-042608 (1)](https://user-images.githubusercontent.com/118061618/207213183-e062d50b-63f1-4138-843a-be0d3f255d77.png)
 
 .color1 { #042608 }
