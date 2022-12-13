@@ -8,9 +8,9 @@ Personas residentes en la ciudad de Villa Dolores, Córdoba, que requieran servi
 
 ## Tipografía: ##
 
-**Titulos:** Black high light (https://www.dafont.com/black-highlight.font)
+**Títulos:** Black high light (https://www.dafont.com/black-highlight.font)
     
-**Subtitulo:**   Its classy (https://www.dafont.com/its-classy.font)
+**Subtítulos:**   Its classy (https://www.dafont.com/its-classy.font)
     
 **Cuerpo:** Sunday (https://www.dafont.com/sunday-3.font)
 
